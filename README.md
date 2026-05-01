@@ -1,4 +1,7 @@
-# Hey, i'm Vega Matias! 👋
+<p align="center">
+  <img src="./channels4_profile.jpg" width="150"/>
+</p>
+# Hey, i'm Vega Matias!
 
 💻 Junior Developer | Backend & Frontend | Game Dev Enthusiast
 
@@ -44,7 +47,7 @@ English: Intermediate
 
 ## Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiLegends)](https://github.com/MatiLegends/github-readme-stats)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatiLegends&layout=compact)
 
 📫 Contact
 
