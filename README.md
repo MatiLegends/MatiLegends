@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./channels4_profile.jpg" width="150"/>
-</p>
 # Hey, i'm Vega Matias!
 
 💻 Junior Developer | Backend & Frontend | Game Dev Enthusiast
