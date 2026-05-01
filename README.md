@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hey, i'm Vega Matias! 👋
 
-<!--
-**MatiLegends/MatiLegends** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Developer | Backend & Frontend | Game Dev Enthusiast
 
-Here are some ideas to get you started:
+Hi! My real name is Vega Matias Ezequiel, but online most people know me as MatiLegends 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i'm a programming technician with knowledge in:
+
+Backend development
+Frontend development
+Game development 🎮
+
+I enjoy building applications, working with databases, and creating APIs.
+I'm always looking to learn new technologies and improve my skills.
+
+🧠 Skills
+
+💻 Programming Languages   
+JavaScript   
+Python  
+PHP  
+HTML & CSS  
+GDScript
+
+⚙️ Frameworks & Libraries  
+React Native  
+Node.js
+
+🗄️ Databases  
+MySQL  
+PostgreSQL
+
+🖥️ Other  
+Git & Version Control  
+Linux & Windows
+
+🌎 Languages  
+Spanish: Native  
+English: Intermediate
+
+## Github Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MatiLegends&theme=dark)](https://git.io/streak-stats)
+
+## Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiLegends)](https://github.com/MatiLegends/github-readme-stats)
+
+📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-vega98790@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vega98790@gmail.com)
