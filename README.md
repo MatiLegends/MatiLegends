@@ -1,4 +1,4 @@
-# Hey, i'm Vega Matias!
+# Hey, i'm Vega Matias! 👋
 
 💻 Junior Developer | Backend & Frontend | Game Dev Enthusiast
 
