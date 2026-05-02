@@ -2,7 +2,7 @@
 
 💻 Junior Developer | Backend & Frontend | Game Dev Enthusiast
 
-Hi! My real name is Vega Matias Ezequiel, but online most people know me as MatiLegends 😄
+Hi! My real name is Vega Matías Ezequiel, but most people know me by my nickname, MatiLegends. 😄
 
 i'm a programming technician with knowledge in:
 
